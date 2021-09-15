@@ -1,0 +1,1 @@
+# OPERADORES RELACIONAIS: utilizado em comparações lógicas
