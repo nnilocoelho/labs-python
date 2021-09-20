@@ -2,7 +2,7 @@
 
 Laboratório de estudos com a linguagem de programação Python.
 
-## Labs
+## Ferramentas
  - Google Colab
 
 ## Fontes de Pesquisa
