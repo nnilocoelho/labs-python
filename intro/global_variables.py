@@ -16,3 +16,11 @@ def myfunc():
 myfunc()
 
 print("2022! " + x)
+
+# Example 3 - Global keyword
+def myfunc():
+    global x
+    x = "fantastic"
+
+myfunc()
+print("Python is " + x)
