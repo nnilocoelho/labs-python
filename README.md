@@ -3,7 +3,7 @@
 Laboratório de estudos com a linguagem de programação Python.
 
 ## Ferramentas
- - Google Colab
+ - GitPod
 
 ## Fontes de Pesquisa
  - https://www.python.org/
