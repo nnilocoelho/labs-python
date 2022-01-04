@@ -21,3 +21,15 @@ print(x)
 print(y)
 print(z)
 
+# Output
+a = "God"
+print("Beer is a ", a)
+
+# Text + Variables
+a = "Python is a "
+b = "Very Good"
+c = a + b
+print(c)
+
+# 
+
